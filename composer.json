@@ -1,0 +1,8 @@
+{
+    "name": "xiaoyangbin/gittest",
+    "description": "a test composer project",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
