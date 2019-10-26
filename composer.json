@@ -1,14 +1,7 @@
 {
     "name": "xiaoyangbin/gittest",
-    "description": "a test composer project",
+    "description": "test",
     "type": "project",
     "license": "MIT",
-    "minimum-stability": "dev",
-    "require": {},
-    "repositories": {
-        "packagist": {
-            "type": "composer",
-            "url": "https://packagist.phpcomposer.com"
-        }
-    }
+    "require": {}
 }
